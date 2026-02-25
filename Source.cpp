@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-	int number1 {};
-	int number2 {};
+	int number1;
+	int number2;
 	cout << "숫자 2개 입력" << endl;
 	cin >> number1;
 	cin >> number2;
